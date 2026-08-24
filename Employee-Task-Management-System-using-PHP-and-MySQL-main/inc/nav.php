@@ -16,6 +16,14 @@
 						<span>Dashboard</span>
 					</a>
 				</li>
+				
+ <li>
+     <a href="notes.php">
+        <i class="fa fa-sticky-note" aria-hidden="true"></i>
+        <span>Public Board</span>
+    </a>
+</li>
+				
 				<li>
 					<a href="my_task.php">
 						<i class="fa fa-tasks" aria-hidden="true"></i>
